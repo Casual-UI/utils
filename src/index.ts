@@ -1,3 +1,2 @@
-import { attributeAtom } from './attributeAtom.js'
-
-export { attributeAtom }
+export * from './attributeAtom.js'
+export * from './computePopup.js'
