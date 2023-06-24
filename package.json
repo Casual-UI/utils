@@ -30,7 +30,7 @@
     "unbuild": "^1.2.1"
   },
   "dependencies": {
-    "@floating-ui/dom": "^1.4.1"
+    "@floating-ui/dom": "^1.4.2"
   },
   "author": {
     "email": "1197160272@qq.com",
