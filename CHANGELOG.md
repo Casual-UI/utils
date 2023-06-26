@@ -1,5 +1,11 @@
 # @casual-ui/utils
 
+## 0.0.3
+
+### Patch Changes
+
+- [`16ea508`](https://github.com/Casual-UI/utils/commit/16ea508962bdcd831fb37624175e290c232d7b50) Thanks [@Blackman99](https://github.com/Blackman99)! - chore: update ci
+
 ## 0.0.2
 
 ### Patch Changes
