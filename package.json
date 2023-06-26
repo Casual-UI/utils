@@ -1,7 +1,7 @@
 {
   "name": "@casual-ui/utils",
   "description": "The utility functions for Casual UI",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "type": "module",
   "files": [
     "dist"
