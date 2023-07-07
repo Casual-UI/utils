@@ -31,7 +31,7 @@ export function recomputePos({
         arrow({ element: arrowDom }),
       ],
     }).then(({ x, y, placement, middlewareData }) => {
-      const { x: arrowX, y: arrowY } = middlewareData.arrow
+      const { x: arrowX, y: arrowY } = middlewareData.arrow as any
 
       const staticSide = {
         top: 'bottom',
@@ -45,7 +45,7 @@ export function recomputePos({
         top: arrowY != null ? `${arrowY}px` : '',
         right: '',
         bottom: '',
-        [staticSide]: '-4px',
+        [staticSide as any]: '-4px',
       })
       resolve({
         left: `${x}px`,
